@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|c:\\users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\onedrive\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\sensors\\sensors\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|solutionrelative:sensors\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\sensors\\iranian agent\\agentinvestigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|solutionrelative:sensors\\iranian agent\\agentinvestigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\sensors\\iranian agent\\iranagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|solutionrelative:sensors\\iranian agent\\iranagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\sensors\\sensor\\termi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|solutionrelative:sensors\\sensor\\termi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\sensors\\sensor\\asensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|solutionrelative:sensors\\sensor\\asensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\sensors\\sensor\\basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|solutionrelative:sensors\\sensor\\basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\sensors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71C2C6E-4EAA-43EE-A8F4-48B71F5334D3}|Sensors\\Sensors.csproj|solutionrelative:sensors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\.gitignore",
+              "RelativeDocumentMoniker": "Sensors\\.gitignore",
+              "ToolTip": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\.gitignore",
+              "RelativeToolTip": "Sensors\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-16T13:06:33.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgentInvestigation.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\Iranian agent\\AgentInvestigation.cs",
+              "RelativeDocumentMoniker": "Sensors\\Iranian agent\\AgentInvestigation.cs",
+              "ToolTip": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\Iranian agent\\AgentInvestigation.cs",
+              "RelativeToolTip": "Sensors\\Iranian agent\\AgentInvestigation.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:56:24.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IranAgent.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\Iranian agent\\IranAgent.cs",
+              "RelativeDocumentMoniker": "Sensors\\Iranian agent\\IranAgent.cs",
+              "ToolTip": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\Iranian agent\\IranAgent.cs",
+              "RelativeToolTip": "Sensors\\Iranian agent\\IranAgent.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:25:46.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ASensor.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\Sensor\\ASensor.cs",
+              "RelativeDocumentMoniker": "Sensors\\Sensor\\ASensor.cs",
+              "ToolTip": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\Sensor\\ASensor.cs",
+              "RelativeToolTip": "Sensors\\Sensor\\ASensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:31:48.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Termi.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\Sensor\\Termi.cs",
+              "RelativeDocumentMoniker": "Sensors\\Sensor\\Termi.cs",
+              "ToolTip": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\Sensor\\Termi.cs",
+              "RelativeToolTip": "Sensors\\Sensor\\Termi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:31:26.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Basic.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\Sensor\\Basic.cs",
+              "RelativeDocumentMoniker": "Sensors\\Sensor\\Basic.cs",
+              "ToolTip": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\Sensor\\Basic.cs",
+              "RelativeToolTip": "Sensors\\Sensor\\Basic.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:31:11.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\Program.cs",
+              "RelativeDocumentMoniker": "Sensors\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05EA\u05DB\u05E0\u05D5\u05EA\\Sensors\\Sensors\\Program.cs",
+              "RelativeToolTip": "Sensors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:17:00.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

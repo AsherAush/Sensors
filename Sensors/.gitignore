@@ -1,0 +1,47 @@
+# קבצים של Visual Studio
+.vs/
+*.user
+*.suo
+
+# קבצים של בנייה
+bin/
+obj/
+out/
+
+# קבצים זמניים
+*.log
+*.tmp
+*.bak
+
+# קבצי מערכת
+Thumbs.db
+.DS_Store
+
+# קבצי פלט של טסטים
+TestResults/
+*.trx
+
+# חבילות NuGet
+packages/
+*.nupkg
+
+# הגדרות IDE אישיות
+*.userprefs
+
+# קבצי פלט נוספים
+*.exe
+*.dll
+*.pdb
+
+# קבצים שקשורים ל-ReSharper (אם אתה משתמש)
+_ReSharper*/
+*.DotSettings.user
+
+# קבצים של Rider IDE
+.idea/
+
+# סביבות וירטואליות
+.vscode/
+
+# dotnet tools
+.tools/
