@@ -8,8 +8,6 @@ namespace Sensors.Sensor
 {
     internal class Termi : ASensor
     {
-       
-
         public Termi (string name) 
             : base (name)
         {}

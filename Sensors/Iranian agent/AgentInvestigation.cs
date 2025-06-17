@@ -8,5 +8,6 @@ namespace Sensors.Iranian_agent
 {
     internal class AgentInvestigation
     {
+
     }
 }
