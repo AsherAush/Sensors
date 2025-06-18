@@ -1,57 +1,40 @@
-﻿using System;
-using Sensors.Iranian_agent;
+﻿using Sensors.Iranian_agent;
 using Sensors.Sensor;
+using System;
 
 namespace Sensors.Game
 {
     internal class GameManeger
     {
-        ASensor thisSensor;
-
-        public GameManeger(IranAgent sochan)
+        public GameManeger(IranAgent agent)
         {
-            Console.WriteLine("Welcome to the interrogation room:");
+            Console.WriteLine("\nWelcome to the interrogation room:");
             Console.WriteLine("You are now interrogating investigator Ahmed in room 9.");
 
-            bool sensorCreated = false;
+            ASensor selectedSensor = null;
 
-            while (!sensorCreated)
+            while (true)
             {
                 Console.WriteLine("Please enter the type of sensor you would like to pair (Termi / Basic):");
+                string sensorType = Console.ReadLine();
 
-                try
+                switch (sensorType)
                 {
-                    string sensorType = Console.ReadLine();
-
-                    switch (sensorType.ToLower())
-                    {
-                        case "termi":
-                            thisSensor = new Termi(sensorType);
-                            sensorCreated = true;
-                            break;
-
-                        case "basic":
-                            thisSensor = new Basic(sensorType);
-                            sensorCreated = true;
-                            break;
-
-                        default:
-                            Console.WriteLine("Invalid sensor type. Try again.");
-                            break;
-                    }
+                    case "Termi":
+                        selectedSensor = new Termi(sensorType);
+                        break;
+                    case "Basic":
+                        selectedSensor = new Basic(sensorType);
+                        break;
+                    default:
+                        Console.WriteLine("Invalid sensor type. Please try again.\n");
+                        continue; // חוזר לתחילת הלולאה
                 }
-                catch (Exception ex)
-                {
-                    Console.WriteLine($"An error occurred: {ex.Message}");
-                }
+
+                break; // יציאה מהלולאה אם הכל תקין
             }
 
-            sochan.AddSensor(thisSensor);
+            agent.AddSensor(selectedSensor);
         }
-
-        //public ASensor ThisSensor()
-        //{
-        //    return thisSensor;
-        //}
     }
 }

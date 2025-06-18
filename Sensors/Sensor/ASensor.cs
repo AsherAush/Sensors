@@ -6,21 +6,21 @@ using System.Threading.Tasks;
 
 namespace Sensors.Sensor
 {
-    public  class ASensor
+    public class ASensor
     {
         public string Name { get; }
-        public bool Activat { get; set; }
+        public bool Activat { get; private set; }
 
-        public ASensor (string name)
+        public ASensor(string name)
         {
-            this.Name = name;
+            Name = name;
             Activat = false;
             ActivatSensor();
         }
+
         public void ActivatSensor()
         {
             Activat = true;
         }
-
     }
 }
